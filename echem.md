@@ -1,4 +1,4 @@
-# Esposito Research Lab 3D printer design files
+# Esposito Research Lab 3D printing design files
 
 This repository contains .stl design files that were created by the Esposito Research lab at Columbia University for various electrochemistry-related projects.
 
