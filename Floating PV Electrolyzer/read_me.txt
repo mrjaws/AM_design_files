@@ -1,8 +1,8 @@
 **********************************************************************************
 * Project: Floating PV electrolysis cell
 * Author: Justin Bui and Jack Davis
-* Date: 9/2/2016
-* Last Updated: 9/11/2017
+* Date: 12/15/2017
+* Last Updated: 11/19/2019
 *
 * Relevant Publication: Davis, J. T., Qi, J., Fan, X., Bui, J. C. & Esposito, D. V. Floating membraneless PV-electrolyzer based on buoyancy-driven product separation. Int. J. Hydrogen Energy 43, 1224–1238 (2018).
 *
