@@ -1,6 +1,6 @@
 **********************************************************************************
 * Project: Stagnant electrolyte membraneless electrolyzer
-* Author: Ji Qi, Jack Davis, and Justin Bui
+* Author: Jack Davis, Ji Qi, and Justin Bui
 * Date: 12/15/2017
 * Last Updated: 11/19/2019
 *
