@@ -14,6 +14,8 @@ DESCRIPTION: Stand-alone membraneless electrolyzer with vertically oriented mesh
 MAIN PART DESCRIPTION:
 * Reactor Bottom_v2 -- Base of electrolyzer cell. Designed to have windows epoxied to front and back side of the electrolyzer and then be filled with electrolyte. Lid is designed to fit snugly into reactor bottom.
 * jtd_lid4_20160910 -- Lid of the electrolyzer cell. Contains two slots to feed through mesh electrodes. Below the lid is a collection reservoir chamber which collects the evolved gases as electrolysis proceeds. Each collection chamber has a slot to feed through an electrode. To maintain a gas tight seal, it is recommended that the electrode be epoxided into its slot. Each collection chamber also contains a gas sampling port which can be fitted with a rubber septum typically used for 5 mm NMR tubes. The lid also contains a large hole outside of the collection chamber in order to fit a reference electrode through, or a gas purge line if desired.
+* jtd_tack_no_middle_20170113 -- Tack which is designed to slip over the very bottom of the mesh electrodes to control their seperation distance and angle. Tack contains multiple slots for different separation angles. Must be modified depending on the length of the electrodes and desired separation angle.
+* jtd_lid_auxiliary_electrode_2_2_20170428 -- Modified lid with an additional electrode slot for sensing measurements. Experiments using the modified lid require a wider reactor bottom to accomodate the extra space required to fit in an additional sensing electrode.
 
 ADDITIONAL PARTS REQUIRED:
 * Glass microscope slides or other glass substrate to serve as viewing window
