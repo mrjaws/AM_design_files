@@ -2,10 +2,10 @@
 * Project: Parallel Plate Membraneless Electrolyzer
 * Author: Xueqi Pang, Jonathan Davis, Albert Harvey, Daniel Esposito
 * Date: 7/7/2020
-* Last Updated: 7/17/2020
+* Last Updated: 9/7/2020
 *
-* Relevant Publication: 
-* DOI: 
+* Relevant Publication: Framework for evaluating the performance limits of membraneless electrolyzers
+* DOI: https://doi.org/10.1039/D0EE02268C
 *
 **********************************************************************************
 
