@@ -28,5 +28,5 @@ ADDITIONAL MATERIALS REQUIRED:
 ASSEMBLY:
 1) Print out the cell and the H2 gas manifold.
 2) Epoxy the PtRu GDE on the gas manifold, and only cover the three gas channels with the PtRu GDE. 
-3) Insert the electrodes into the slits on the sides of the device and epoxied into place. The gap between the electrode and the front window was 3 mm, and it was 1 mm between the electrode and the back window.
+3) Insert the electrodes into the slits on the sides of the device and epoxy into place. The gap between the electrode and the front window is 3 mm, and it is 1 mm between the electrode and the back window.
 4) Epoxy the glass windows to the front and back of the device.
